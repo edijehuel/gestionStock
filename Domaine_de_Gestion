@@ -1,10 +1,10 @@
 - Domaine
 ------------------------------
   1- Gestion clientèle
-  2- Gestion administrateur
-  3- Gestion des produits
-  4- Gestion de l'inventaire
-  5- Gestion de recettes
+  2- Gestion des locations
+  3- Gestion de l'inventaire
+  4- Gestion de recettes
+  5- Gestion des recouvrements
   6- Reporting
 ----------------------------
 
@@ -15,11 +15,9 @@
 => Améliorer l'offre
 
 
-2- Gestion administrateur
+2- Gestion des locations
 ----------------------------
-=> Constituer une base de donnée
-=> Comptabilité
-=> Contrôle de tout
+=> Faire la location des produits
 
 
 3- Gestion de l'inventaire
@@ -33,7 +31,11 @@
 => Constituer une base de donnée
 => Gérer les encaissements et décaissements
 
+5- Gestion des recouvrements
+-----------------------------
+=> Envoyer des mails de relance, Faire le suivi des delais de reglements
 
-5- Reporting
+
+6- Reporting
 ---------------------------
 => Rapport journalier en PDF et envoie de mail
