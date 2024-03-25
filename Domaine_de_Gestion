@@ -7,10 +7,13 @@
   5- Gestion de recettes
   6- Reporting
 ----------------------------
+
+
 1- Gestion clientèle
 ----------------------------
 => Constituer une base de donnée
 => Améliorer l'offre
+
 
 2- Gestion administrateur
 ----------------------------
@@ -18,15 +21,18 @@
 => Comptabilité
 => Contrôle de tout
 
+
 3- Gestion de l'inventaire
 ----------------------------
 => Constituer une base de donnée des produits
 => Gérer les stocks
 
+
 4- Gestion des recettes
 ----------------------------
 => Constituer une base de donnée
 => Gérer les encaissements et décaissements
+
 
 5- Reporting
 ---------------------------
